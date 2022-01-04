@@ -1,1 +1,1 @@
-This is a windows forms project I made for the emulator DeSmuMe for pokemon gen 4 & 5 games. It is made to grind XP for your pokemon while in the daycare. You have some settings to chose how long t…
+This is a windows forms project I made for the emulator DeSmuMe (or any other it should work) for pokemon gen 4 & 5 games. It is made to grind XP for your pokemon while in the daycare. You can set what time it holds the Up and Down arrow keys for. The program will run until you click stop or close the program.
